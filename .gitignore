@@ -1,0 +1,7 @@
+#DEMO_example
+
+access.log
+*.zip
+*.gz
+log/*.log
+assests/videos/tours_.mp4
