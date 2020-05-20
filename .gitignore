@@ -6,3 +6,5 @@ access.log
 log/*.log
 assests/videos/tours_.mp4
 assests.log
+db.txt
+config.txt
