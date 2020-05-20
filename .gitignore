@@ -5,3 +5,4 @@ access.log
 *.gz
 log/*.log
 assests/videos/tours_.mp4
+assests.log
